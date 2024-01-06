@@ -445,7 +445,7 @@ ul#row_sections li ul li:last-child{
 @media screen and (max-width:450px){
     #search-form{
       margin:4px;
-      width: %100;
+      width: 100%;
     }
     #home_page_logo{
       padding-right: 7px;
